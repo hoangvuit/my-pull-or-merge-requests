@@ -1,4 +1,5 @@
 - Clone the repo.
 - Copy `.env-sample` to `.env`.
 - Update `.env` file to fill all required info.
+- Run `npm install` to install all dependencies.
 - Start the app with `npm run dev`.
